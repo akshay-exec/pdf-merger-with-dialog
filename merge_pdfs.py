@@ -3,7 +3,7 @@ from PyPDF2 import PdfMerger
 import tkinter as tk
 from tkinter import filedialog
 
-# === Update these paths inside the script before running ===
+# === Update these before running ===
 pdf_folder = r"PATH_TO_PDF_FOLDER"
 
 # === Initialize Tkinter root (hide main window) ===
